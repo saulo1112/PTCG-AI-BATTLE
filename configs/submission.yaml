@@ -1,0 +1,8 @@
+# Submission-build profile (ADR-0001).
+# The deck under paths.deck_path is what ships as deck.csv.
+
+logging:
+  level: INFO
+
+submission:
+  output_name: submission

@@ -1,0 +1,49 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.egg-info/
+build/
+dist/
+wheels/
+
+# Virtual environments
+.venv/
+.venv*/
+
+# Test / lint caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Project outputs (never commit generated artifacts)
+*.tar.gz
+data/
+replays/
+Logs/
+
+# Research scratch output — keep the scripts, never the run logs or large
+# intermediate artifacts they produce. Re-running any script regenerates these.
+scratchpad/*.log
+scratchpad/*.err
+scratchpad/data/
+scratchpad/results/*.json
+scratchpad/__pycache__/
+
+# Kaggle session cookies used by tools/kaggle_api.py — never commit these
+cookies.txt
+cookies.txt.json
+tools/cookies*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Claude Code session state (not part of the research record)
+.claude/

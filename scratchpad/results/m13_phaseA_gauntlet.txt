@@ -1,0 +1,64 @@
+
+=== v1 vs v2.1(lucario) (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=lucario800
+A: 95W-204L-1D of 300 | score rate 0.318 (95% CI 0.268..0.373)   clears0.5? no  >=0.65(lo>0.5)? no
+  A wins:{'deck-out': 9, 'prizes': 72, 'no-active': 14}  A loses:{'prizes': 189, 'no-active': 15}
+  interventions A=0 B=0
+  bc_used=16640 bc_failures=0  wall=50s (0.17s/game)
+
+=== v1 vs v3(bellibolt) (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=kenn2439
+A: 242W-58L-0D of 300 | score rate 0.807 (95% CI 0.758..0.847)   clears0.5? YES  >=0.65(lo>0.5)? SHIP
+  A wins:{'prizes': 140, 'deck-out': 85, 'no-active': 17}  A loses:{'prizes': 56, 'no-active': 2}
+  interventions A=0 B=0
+  bc_used=15762 bc_failures=0  wall=68s (0.23s/game)
+
+=== v1 vs cinderace (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=yoshiki
+A: 104W-196L-0D of 300 | score rate 0.347 (95% CI 0.295..0.402)   clears0.5? no  >=0.65(lo>0.5)? no
+  A wins:{'no-active': 63, 'prizes': 38, 'deck-out': 3}  A loses:{'prizes': 185, 'no-active': 9, 'deck-out': 2}
+  interventions A=0 B=0
+  bc_used=17126 bc_failures=0  wall=37s (0.12s/game)
+
+=== v1.2 vs v1-mirror(TR) (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=greengreenpurple
+A: 177W-123L-0D of 300 | score rate 0.590 (95% CI 0.534..0.644)   clears0.5? YES  >=0.65(lo>0.5)? no
+  A wins:{'prizes': 166, 'no-active': 11}  A loses:{'prizes': 117, 'no-active': 6}
+  interventions A=0 B=0
+  bc_used=17262 bc_failures=0  wall=116s (0.39s/game)
+
+=== v1.2 vs v2.1(lucario) (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=lucario800
+A: 107W-193L-0D of 300 | score rate 0.357 (95% CI 0.305..0.412)   clears0.5? no  >=0.65(lo>0.5)? no
+  A wins:{'prizes': 87, 'deck-out': 6, 'no-active': 14}  A loses:{'deck-out': 1, 'prizes': 173, 'no-active': 19}
+  interventions A=0 B=0
+  bc_used=16593 bc_failures=0  wall=139s (0.46s/game)
+
+=== v1.2 vs v3(bellibolt) (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=kenn2439
+A: 230W-70L-0D of 300 | score rate 0.767 (95% CI 0.716..0.811)   clears0.5? YES  >=0.65(lo>0.5)? SHIP
+  A wins:{'deck-out': 83, 'prizes': 126, 'no-active': 21}  A loses:{'prizes': 66, 'no-active': 4}
+  interventions A=0 B=0
+  bc_used=15838 bc_failures=0  wall=162s (0.54s/game)
+
+=== v1.2 vs cinderace (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=yoshiki
+A: 100W-200L-0D of 300 | score rate 0.333 (95% CI 0.282..0.388)   clears0.5? no  >=0.65(lo>0.5)? no
+  A wins:{'prizes': 30, 'no-active': 68, 'deck-out': 2}  A loses:{'prizes': 187, 'no-active': 13}
+  interventions A=0 B=0
+  bc_used=16985 bc_failures=0  wall=146s (0.49s/game)
+
+============================================================================================
+STRONG-OPPONENT GAUNTLET SUMMARY (candidate score rate vs each clone foe)
+============================================================================================
+opponent              v1        v1 95%CI    v1.2      v1.2 95%CI    delta   +/-1.96SE
+--------------------------------------------------------------------------------------------
+v1-mirror(TR)      0.500   [0.500,0.500]   0.590   [0.534,0.644]   +0.090       0.079  (v1 side=0.5 by construction)
+v2.1(lucario)      0.318   [0.268,0.373]   0.357   [0.305,0.412]   +0.038       0.076
+v3(bellibolt)      0.807   [0.758,0.847]   0.767   [0.716,0.811]   -0.040       0.065
+cinderace          0.347   [0.295,0.402]   0.333   [0.282,0.388]   -0.013       0.076
+--------------------------------------------------------------------------------------------
+POOLED delta (v1.2 - v1) over 4 matchups: +0.019  95% CI [-0.018, +0.056]
+sign consistency: 2/4 matchups favor v1.2
+
+GATE A verdict: INCONCLUSIVE (CI spans 0)

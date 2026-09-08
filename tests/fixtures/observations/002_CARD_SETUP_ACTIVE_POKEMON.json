@@ -1,0 +1,185 @@
+{
+ "select": {
+  "type": 1,
+  "context": 1,
+  "minCount": 1,
+  "maxCount": 1,
+  "remainDamageCounter": 0,
+  "remainEnergyCost": 0,
+  "option": [
+   {
+    "type": 3,
+    "area": 2,
+    "index": 5,
+    "playerIndex": 0
+   }
+  ],
+  "deck": null,
+  "contextCard": null,
+  "effect": null
+ },
+ "logs": [
+  {
+   "type": 4,
+   "playerIndex": 0,
+   "cardId": 1235,
+   "serial": 24
+  },
+  {
+   "type": 4,
+   "playerIndex": 0,
+   "cardId": 3,
+   "serial": 58
+  },
+  {
+   "type": 4,
+   "playerIndex": 0,
+   "cardId": 1227,
+   "serial": 21
+  },
+  {
+   "type": 4,
+   "playerIndex": 0,
+   "cardId": 3,
+   "serial": 54
+  },
+  {
+   "type": 4,
+   "playerIndex": 0,
+   "cardId": 3,
+   "serial": 61
+  },
+  {
+   "type": 4,
+   "playerIndex": 0,
+   "cardId": 721,
+   "serial": 4
+  },
+  {
+   "type": 4,
+   "playerIndex": 0,
+   "cardId": 3,
+   "serial": 39
+  },
+  {
+   "type": 5,
+   "playerIndex": 1
+  },
+  {
+   "type": 5,
+   "playerIndex": 1
+  },
+  {
+   "type": 5,
+   "playerIndex": 1
+  },
+  {
+   "type": 5,
+   "playerIndex": 1
+  },
+  {
+   "type": 5,
+   "playerIndex": 1
+  },
+  {
+   "type": 5,
+   "playerIndex": 1
+  },
+  {
+   "type": 5,
+   "playerIndex": 1
+  },
+  {
+   "type": 1,
+   "playerIndex": 0,
+   "hasBasicPokemon": true
+  },
+  {
+   "type": 1,
+   "playerIndex": 1,
+   "hasBasicPokemon": false
+  }
+ ],
+ "current": {
+  "turn": 0,
+  "turnActionCount": 2,
+  "yourIndex": 0,
+  "firstPlayer": 0,
+  "supporterPlayed": false,
+  "stadiumPlayed": false,
+  "energyAttached": false,
+  "retreated": false,
+  "result": -1,
+  "stadium": [],
+  "looking": null,
+  "players": [
+   {
+    "active": [],
+    "bench": [],
+    "benchMax": 5,
+    "deckCount": 53,
+    "discard": [],
+    "prize": [],
+    "handCount": 7,
+    "hand": [
+     {
+      "id": 1235,
+      "serial": 24,
+      "playerIndex": 0
+     },
+     {
+      "id": 3,
+      "serial": 58,
+      "playerIndex": 0
+     },
+     {
+      "id": 1227,
+      "serial": 21,
+      "playerIndex": 0
+     },
+     {
+      "id": 3,
+      "serial": 54,
+      "playerIndex": 0
+     },
+     {
+      "id": 3,
+      "serial": 61,
+      "playerIndex": 0
+     },
+     {
+      "id": 721,
+      "serial": 4,
+      "playerIndex": 0
+     },
+     {
+      "id": 3,
+      "serial": 39,
+      "playerIndex": 0
+     }
+    ],
+    "poisoned": false,
+    "burned": false,
+    "asleep": false,
+    "paralyzed": false,
+    "confused": false
+   },
+   {
+    "active": [],
+    "bench": [],
+    "benchMax": 5,
+    "deckCount": 53,
+    "discard": [],
+    "prize": [],
+    "handCount": 7,
+    "hand": null,
+    "poisoned": false,
+    "burned": false,
+    "asleep": false,
+    "paralyzed": false,
+    "confused": false
+   }
+  ]
+ },
+ "search_begin_input": "AGIAXEATEAbICAGEAEB-+CCJ-PHHAEGDoVNj0EJw-LBDU-5KBw-ZB1-fIB-VEQ-VBL-+BI-UBBCw-MFDRABgACg-WBCABQ-L3MsEACB9-WBIB-hINMEACB7-WBIB-iwMADCB-WBIB-iwMADB+-WBIB-3LDAEf-WBCABQ-hIDAEfw-VBCABQ*3dDQAEMACgABF-EBBAEGwAWQCvGQAVBABK1oAFQAPQEABrVkAUBABQCtAG=="
+}

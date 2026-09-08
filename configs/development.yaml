@@ -1,0 +1,10 @@
+# Day-to-day development profile.
+# Only overrides of the code defaults in src/ptcg_ai/config/schema.py belong
+# here; anything not listed keeps its default.
+
+logging:
+  level: INFO
+
+battle:
+  games: 1
+  trace: true

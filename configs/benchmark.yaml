@@ -1,0 +1,13 @@
+# Benchmark profile: quiet logs, fixed seeds, larger op counts (ADR-0006).
+
+logging:
+  level: WARNING
+
+battle:
+  seed: 12345
+  trace: false
+
+bench:
+  n_battles: 20
+  parser_iterations: 500
+  search_steps: 2000

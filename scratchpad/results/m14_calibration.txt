@@ -1,0 +1,124 @@
+
+=== v1 vs v2.1(lucario) (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=lucario800
+A: 96W-204L-0D of 300 | score rate 0.320 (95% CI 0.270..0.375)   clears0.5? no  >=0.65(lo>0.5)? no
+  A wins:{'no-active': 17, 'prizes': 66, 'deck-out': 13}  A loses:{'prizes': 189, 'no-active': 15}
+  interventions A=0 B=0
+  bc_used=16679 bc_failures=0  wall=71s (0.24s/game)
+
+=== v1 vs v3(bellibolt) (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=kenn2439
+A: 235W-65L-0D of 300 | score rate 0.783 (95% CI 0.733..0.826)   clears0.5? YES  >=0.65(lo>0.5)? SHIP
+  A wins:{'deck-out': 98, 'prizes': 121, 'no-active': 16}  A loses:{'prizes': 63, 'no-active': 2}
+  interventions A=0 B=0
+  bc_used=16135 bc_failures=0  wall=101s (0.34s/game)
+
+=== v1 vs cinderace (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=yoshiki
+A: 110W-190L-0D of 300 | score rate 0.367 (95% CI 0.314..0.423)   clears0.5? no  >=0.65(lo>0.5)? no
+  A wins:{'prizes': 48, 'no-active': 62}  A loses:{'prizes': 177, 'no-active': 13}
+  interventions A=0 B=0
+  bc_used=16988 bc_failures=0  wall=54s (0.18s/game)
+
+=== v1 vs budew (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=budew
+A: 198W-102L-0D of 300 | score rate 0.660 (95% CI 0.605..0.711)   clears0.5? YES  >=0.65(lo>0.5)? SHIP
+  A wins:{'prizes': 75, 'no-active': 123}  A loses:{'prizes': 90, 'deck-out': 3, 'no-active': 9}
+  interventions A=0 B=0
+  bc_used=15130 bc_failures=0  wall=40s (0.13s/game)
+
+=== v1 vs eduardorochadeandrade (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=eduardorochadeandrade
+A: 205W-95L-0D of 300 | score rate 0.683 (95% CI 0.629..0.733)   clears0.5? YES  >=0.65(lo>0.5)? SHIP
+  A wins:{'no-active': 169, 'prizes': 35, 'deck-out': 1}  A loses:{'prizes': 78, 'deck-out': 5, 'no-active': 12}
+  interventions A=0 B=0
+  bc_used=14421 bc_failures=0  wall=43s (0.14s/game)
+
+=== v1 vs legendbrothers (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=legendbrothers
+A: 253W-47L-0D of 300 | score rate 0.843 (95% CI 0.798..0.880)   clears0.5? YES  >=0.65(lo>0.5)? SHIP
+  A wins:{'no-active': 208, 'prizes': 45}  A loses:{'prizes': 41, 'no-active': 6}
+  interventions A=0 B=0
+  bc_used=11815 bc_failures=0  wall=53s (0.18s/game)
+
+=== v1 vs m093jp (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=m093jp
+A: 192W-108L-0D of 300 | score rate 0.640 (95% CI 0.584..0.692)   clears0.5? YES  >=0.65(lo>0.5)? no
+  A wins:{'prizes': 151, 'deck-out': 18, 'no-active': 23}  A loses:{'prizes': 102, 'no-active': 6}
+  interventions A=0 B=0
+  bc_used=16264 bc_failures=0  wall=87s (0.29s/game)
+
+=== v1.2 vs v1-mirror(TR) (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=greengreenpurple
+A: 164W-136L-0D of 300 | score rate 0.547 (95% CI 0.490..0.602)   clears0.5? no  >=0.65(lo>0.5)? no
+  A wins:{'prizes': 150, 'no-active': 14}  A loses:{'prizes': 129, 'no-active': 6, 'deck-out': 1}
+  interventions A=0 B=0
+  bc_used=17144 bc_failures=0  wall=152s (0.51s/game)
+
+=== v1.2 vs v2.1(lucario) (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=lucario800
+A: 94W-205L-1D of 300 | score rate 0.315 (95% CI 0.265..0.370)   clears0.5? no  >=0.65(lo>0.5)? no
+  A wins:{'prizes': 66, 'deck-out': 15, 'no-active': 13}  A loses:{'prizes': 190, 'no-active': 15}
+  interventions A=0 B=0
+  bc_used=16710 bc_failures=0  wall=156s (0.52s/game)
+
+=== v1.2 vs v3(bellibolt) (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=kenn2439
+A: 256W-44L-0D of 300 | score rate 0.853 (95% CI 0.809..0.889)   clears0.5? YES  >=0.65(lo>0.5)? SHIP
+  A wins:{'deck-out': 108, 'prizes': 130, 'no-active': 18}  A loses:{'prizes': 41, 'no-active': 3}
+  interventions A=0 B=0
+  bc_used=15930 bc_failures=0  wall=182s (0.61s/game)
+
+=== v1.2 vs cinderace (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=yoshiki
+A: 87W-213L-0D of 300 | score rate 0.290 (95% CI 0.242..0.344)   clears0.5? no  >=0.65(lo>0.5)? no
+  A wins:{'no-active': 57, 'prizes': 30}  A loses:{'prizes': 195, 'no-active': 16, 'deck-out': 2}
+  interventions A=0 B=0
+  bc_used=17130 bc_failures=0  wall=117s (0.39s/game)
+
+=== v1.2 vs budew (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=budew
+A: 204W-96L-0D of 300 | score rate 0.680 (95% CI 0.625..0.730)   clears0.5? YES  >=0.65(lo>0.5)? SHIP
+  A wins:{'no-active': 147, 'prizes': 57}  A loses:{'prizes': 86, 'no-active': 9, 'deck-out': 1}
+  interventions A=0 B=0
+  bc_used=14308 bc_failures=0  wall=77s (0.26s/game)
+
+=== v1.2 vs eduardorochadeandrade (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=eduardorochadeandrade
+A: 210W-90L-0D of 300 | score rate 0.700 (95% CI 0.646..0.749)   clears0.5? YES  >=0.65(lo>0.5)? SHIP
+  A wins:{'no-active': 155, 'prizes': 55}  A loses:{'prizes': 77, 'no-active': 9, 'deck-out': 4}
+  interventions A=0 B=0
+  bc_used=14329 bc_failures=0  wall=97s (0.32s/game)
+
+=== v1.2 vs legendbrothers (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=legendbrothers
+A: 240W-60L-0D of 300 | score rate 0.800 (95% CI 0.751..0.841)   clears0.5? YES  >=0.65(lo>0.5)? SHIP
+  A wins:{'no-active': 181, 'prizes': 59}  A loses:{'prizes': 53, 'no-active': 6, 'deck-out': 1}
+  interventions A=0 B=0
+  bc_used=12554 bc_failures=0  wall=103s (0.34s/game)
+
+=== v1.2 vs m093jp (n=300, swapped) ===
+A[imitation]=greengreenpurple   B[imitation]=m093jp
+A: 177W-123L-0D of 300 | score rate 0.590 (95% CI 0.534..0.644)   clears0.5? YES  >=0.65(lo>0.5)? no
+  A wins:{'prizes': 121, 'no-active': 32, 'deck-out': 24}  A loses:{'prizes': 115, 'no-active': 8}
+  interventions A=0 B=0
+  bc_used=15750 bc_failures=0  wall=185s (0.62s/game)
+
+============================================================================================
+STRONG-OPPONENT GAUNTLET SUMMARY (candidate score rate vs each clone foe)
+============================================================================================
+opponent              v1        v1 95%CI    v1.2      v1.2 95%CI    delta   +/-1.96SE
+--------------------------------------------------------------------------------------------
+v1-mirror(TR)      0.500   [0.500,0.500]   0.547   [0.490,0.602]   +0.047       0.080  (v1 side=0.5 by construction)
+v2.1(lucario)      0.320   [0.270,0.375]   0.315   [0.265,0.370]   -0.005       0.074
+v3(bellibolt)      0.783   [0.733,0.826]   0.853   [0.809,0.889]   +0.070       0.061
+cinderace          0.367   [0.314,0.423]   0.290   [0.242,0.344]   -0.077       0.075
+budew              0.660   [0.605,0.711]   0.680   [0.625,0.730]   +0.020       0.075
+eduardorochadeandrade   0.683   [0.629,0.733]   0.700   [0.646,0.749]   +0.017       0.074
+legendbrothers     0.843   [0.798,0.880]   0.800   [0.751,0.841]   -0.043       0.061
+m093jp             0.640   [0.584,0.692]   0.590   [0.534,0.644]   -0.050       0.078
+--------------------------------------------------------------------------------------------
+POOLED delta (v1.2 - v1) over 8 matchups: -0.003  95% CI [-0.028, +0.023]
+sign consistency: 4/8 matchups favor v1.2
+
+GATE A verdict: INCONCLUSIVE (CI spans 0)

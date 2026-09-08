@@ -1,0 +1,183 @@
+91 card-effects mention both opponent and hand
+--- 52 Wugtrio ex / Tricolor Pump ---
+  Discard up to 3 Energy cards from your hand. This attack does 60 damage to 1 of your opponent’s Pokémon for each Energy card you discarded in this way. (Don’t apply Weakness and Resistance for Benched
+--- 55 Bronzong / Evolution Jammer ---
+  During your opponent’s next turn, they can’t play any Pokémon from their hand to evolve their Pokémon.
+--- 58 Great Tusk / Land Collapse ---
+  Discard the top card of your opponent’s deck. If you played an Ancient Supporter card from your hand during this turn, discard 3 more cards in this way.
+--- 64 Hoothoot / Silent Wing ---
+  Your opponent reveals their hand.
+--- 98 Chandelure / Mind Ruler ---
+  This attack does 30 damage for each card in your opponent’s hand.
+--- 102 Milotic / Mentally Calm ---
+  Your opponent’s Pokémon in play and all attached cards can’t be put into your opponent’s hand.
+--- 103 Snorunt / Astonish ---
+  Choose a random card from your opponent’s hand. Your opponent reveals that card and shuffles it into their deck.
+--- 142 Genesect / ACE Nullifier ---
+  If this Pokémon has a Pokémon Tool attached, your opponent can’t play any {ACE SPEC} cards from their hand.
+--- 161 Galvantula ex / Fulgurite ---
+  Discard all Energy from this Pokémon. During your opponent’s next turn, they can’t play any Item cards from their hand.
+--- 167 Klinklang / Emergency Rotation ---
+  Once during your turn, if this Pokémon is in your hand and your opponent has any Stage 2 Pokémon in play, you may put this Pokémon onto your Bench.
+--- 198 Durant ex / Sudden Shearing ---
+  When you play this Pokémon from your hand onto your Bench during your turn, you may discard the top card of your opponent’s deck.
+--- 212 Rotom / Crushing Pulse ---
+  Your opponent reveals their hand. Discard all Item cards and Pokémon Tool cards you find there.
+--- 220 Espurr / See Through ---
+  Your opponent reveals their hand.
+--- 221 Meowstic / Beckoning Tail ---
+  You must discard a Chill Teaser Toy card from your hand in order to use this Ability. Once during your turn, you may switch in 1 of your opponent’s Benched Pokémon to the Active Spot.
+--- 235 Budew / Itchy Pollen ---
+  During your opponent’s next turn, they can’t play any Item cards from their hand.
+--- 246 Espeon ex / Psych Out ---
+  Discard a random card from your opponent’s hand.
+--- 273 Banette / Cursed Words ---
+  Your opponent chooses 3 cards from their hand and shuffles those cards into their deck.
+--- 279 Lillie’s Ribombee / Inviting Wink ---
+  When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may have your opponent reveal their hand and you put any number of Basic Pokémon you find there onto their B
+--- 290 Tyranitar / Daunting Gaze ---
+  As long as this Pokémon is in the Active Spot, your opponent can’t play any Item cards from their hand.
+--- 291 N’s Purrloin / Thieving Swipe ---
+  Your opponent reveals their hand, and you choose a card you find there and put it on the bottom of their deck.
+--- 310 Hop’s Dubwool / Defiant Horn ---
+  When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may switch in 1 of your opponent’s Benched Pokémon to the Active Spot.
+--- 348 Hydrapple / Hydra Breath ---
+  Discard 6 Basic {G} Energy cards from your hand, and Knock Out your opponent’s Active Pokémon. If you can’t discard 6 cards in this way, this attack does nothing.
+--- 376 Rotom / Astonish ---
+  Choose a random card from your opponent’s hand. Your opponent reveals that card and shuffles it into their deck.
+--- 416 Huntail /  Diver’s Catch ---
+  When 1 of your {W} Pokémon is Knocked Out by damage from an attack from your opponent’s Pokémon, you may put all Basic {W} Energy attached to that Pokémon into your hand instead of the discard pile.
+--- 424 Cetitan ex /  Snow Camouflage ---
+  Whenever your opponent plays an Item or Supporter card from their hand, prevent all effects of that card done to this Pokémon.
+--- 428 Team Rocket's Ampharos /  Darkest Impulse ---
+  Whenever your opponent plays a Pokémon from their hand to evolve 1 of their Pokémon, put 4 damage counters on that Pokémon. The effect of Darkest Impulse doesn’t stack.
+--- 433 Team Rocket's Chingling / Chiming Commotion ---
+  Discard a random card from your opponent’s hand.
+--- 449 Team Rocket's Arbok /  Potent Glare ---
+  As long as this Pokémon is in the Active Spot, your opponent can’t play any Pokémon that has an Ability from their hand, except for Team Rocket’s Pokémon.
+--- 457 Team Rocket's Golbat /  Sneaky Bite ---
+  When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 2 damage counters on 1 of your opponent’s Pokémon.
+--- 458 Team Rocket's Crobat ex /  Biting Spree ---
+  When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may choose 2 of your opponent’s Pokémon and put 2 damage counters on each of them.
+--- 470 Team Rocket's Meowth / Paw-cket Pilfer ---
+  Choose a random card from your opponent’s hand. Your opponent reveals that card and shuffles it into their deck.
+--- 473 Team Rocket's Porygon / Hacking ---
+  Discard a card from your hand. If you do, your opponent discards a card from their hand.
+--- 497 Volcarona /  Torrid Scales ---
+  You must discard a Basic {R} Energy card from your hand in order to use this Ability. Once during your turn, you may make your opponent’s Active Pokémon Burned.
+--- 538 Sandile / Tighten Up ---
+  Your opponent discards a card from their hand.
+--- 539 Krokorok / Tighten Up ---
+  Your opponent discards 2 cards from their hand.
+--- 540 Krookodile / Tighten Up ---
+  Your opponent discards 2 cards from their hand.
+--- 540 Krookodile / Cursed Slug ---
+  If your opponent has 3 or fewer cards in their hand, this attack does 120 more damage.
+--- 542 Mandibuzz /  Look for Prey ---
+  Once during your turn, you may use this Ability. Your opponent reveals their hand, and you put a Basic Pokémon with 70 HP or less that you find there onto your opponent’s Bench.
+--- 551 Pidove / Scout ---
+  Your opponent reveals their hand.
+--- 561 Whimsicott ex / Wondrous Cotton ---
+  Your opponent reveals their hand. This attack does 50 damage for each Trainer card you find there.
+--- 596 Gothitelle /  Distorted Future ---
+  Once during your turn, if this Pokémon is in the Active Spot, you may have your opponent shuffle their hand into their deck and draw 3 cards.
+--- 596 Gothitelle / Synchro Shot ---
+  If you have the same number of cards in your hand as your opponent, this attack does 90 more damage.
+--- 597 Frillish / Oceanic Gloom ---
+  During your opponent’s next turn, they can’t play any Item cards from their hand.
+--- 598 Jellicent ex /  Oceanic Curse ---
+  As long as this Pokémon is in the Active Spot, your opponent can’t play any Item cards or Pokémon Tool cards from their hand.
+--- 604 Archeops /  Ancient Wing ---
+  Once during your turn, if this Pokémon is in the Active Spot, you may devolve 1 of your opponent’s evolved Pokémon by putting the highest Stage Evolution card on it into your opponent’s hand.
+--- 609 Liepard / Knock Off ---
+  Discard a random card from your opponent’s hand.
+--- 674 Hariyama /  Heave-Ho Catcher ---
+  Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. Switch in 1 of your opponent’s Benched Pokémon to the Active Spot.
+--- 687 Mega Absol ex / Claw of Darkness ---
+  Your opponent reveals their hand, and you discard a card you find there.
+--- 698 Tinkatuff /  Haphazard Hammer ---
+  Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. Flip a coin. If heads, discard an Energy from your opponent’s Active Pokémon.
+--- 719 Chi-Yu / Scorching Earth ---
+  If your opponent has a Stadium in play, discard it. If you do, your opponent can’t play any Stadium cards from their hand during their next turn.
+--- 738 Pachirisu / Electrified Incisors ---
+  During your opponent’s next turn, whenever they attach an Energy card from their hand to the Defending Pokémon, place 8 damage counters on that Pokémon.
+--- 743 Alakazam / Powerful Hand ---
+  Place 2 damage counters on your opponent’s Active Pokémon for each card in your hand.
+--- 753 Houndstone / Horrifying Bite ---
+  Flip a coin until you get tails. For each heads, choose a random card from your opponent’s hand. Your opponent reveals those cards and shuffles them into their deck.
+--- 818 Brambleghast /  Prison Panic ---
+  Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. Make your opponent’s Active Pokémon Confused.
+--- 824 Flygon /  Sandy Flapping ---
+  Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. You may also use this Ability if this Pokémon is in the Active Spot and is Knock
+--- 843 Aipom / Astonish ---
+  Choose a random card from your opponent’s hand, and your opponent reveals that card and shuffles it into their deck.
+--- 852 Beautifly / Energy Straw ---
+  Your opponent reveals their hand, and this attack does 80 damage for each Energy card you find there.
+--- 854 Dustox /  Boisterous Wind ---
+  Once during your turn, you may use this Ability. Flip a coin. If heads, put an Energy attached to your opponent’s Active Pokémon into their hand.
+--- 861 Mega Froslass ex / Resentful Refrain ---
+  This attack does 50 damage for each card in your opponent’s hand.
+--- 895 Scraggy / Knock Off ---
+  Discard a random card from your opponent’s hand.
+--- 896 Mega Scrafty ex / Outlaw Leg ---
+  Discard a random card from your opponent’s hand. Discard the top card of your opponent’s deck.
+--- 898 Pecharunt /  Final Chain ---
+  If this Pokémon is Knocked Out by damage from an attack from your opponent’s Pokémon, search your deck for a card and put it into your hand. Then, shuffle your deck. | 
+--- 954 Luxray ex / Piercing Gaze ---
+  Your opponent reveals their hand, and you discard a card you find there.
+--- 969 Scream Tail ex / Scream ---
+  You can use this attack only if you go second, and only during your first turn. Your opponent can’t play any Supporter cards from their hand during their next turn.
+--- 971 Iron Boulder / Adjusted Horn ---
+  If you don’t have the same number of cards in your hand as your opponent, this attack does nothing.
+--- 984 Mandibuzz ex / Vulture Claw ---
+  Discard a random card from your opponent’s hand.
+--- 994 Fraxure /  Unnerve ---
+  Whenever your opponent plays an Item or Supporter card from their hand, prevent all effects of that card done to this Pokémon.
+--- 1019 Vivillon /  Grand Wing ---
+  Once during your turn, you may use this Ability. Your opponent shuffles their hand and puts it on the bottom of their deck. If they put any cards on the bottom of their deck in this way, they draw 4 c
+--- 1022 Decidueye ex /  Sniper’s Eye ---
+  If your opponent has exactly 4 cards in their hand, ignore all {C} Energy in the costs of attacks used by this Pokémon.
+--- 1024 Talonflame /  Sky Hunt ---
+  Once during your turn, you may use this Ability. Flip a coin. If heads, discard a random card from your opponent’s hand.
+--- 1049 Hippowdon / Twister Spewing ---
+  If you played Tarragon from your hand during this turn, discard the top 3 cards of your opponent’s deck.
+--- 1059 Gengar /  Infinite Shadow ---
+  If this Pokémon is Knocked Out by damage from an attack from your opponent’s Pokémon, put it into your hand instead of the discard pile. (Discard all attached cards.)
+--- 1076 Furfrou / Hand Trim ---
+  Discard random cards from your opponent’s hand until they have 5 cards in their hand.
+--- 1080 Unfair Stamp / Unfair Stamp ---
+  You can use this card only if any of your Pokémon were Knocked Out during your opponent’s last turn. |  | Each player shuffles their hand into their deck. Then, you draw 5 cards, and your opponent dra
+--- 1083 Love Ball / Love Ball ---
+  Search your deck for a Pokémon with the same name as 1 of your opponent’s Pokémon in play, reveal it, and put it into your hand. Then, shuffle your deck.
+--- 1087 Hand Trimmer / Hand Trimmer ---
+  Each player discards cards from their hand until they have 5 cards in their hand. Your opponent discards first. (If a player has 5 or fewer cards in their hand, they do not discard.)
+--- 1103 Meddling Memo / Meddling Memo ---
+  Your opponent counts the cards in their hand, shuffles those cards, and puts them on the bottom of their deck. If they do, they draw that many cards.
+--- 1108 Chill Teaser Toy / Chill Teaser Toy ---
+  You can use this card only if you go second, and only during your first turn. | Put an Energy attached to 1 of your opponent’s Pokémon into their hand.
+--- 1131 Team Rocket's Bother-Bot / Team Rocket's Bother-Bot ---
+  Turn 1 of your opponent’s face-down Prize cards face up and choose a random card from your opponent’s hand. Your opponent reveals that card. You may have your opponent switch those cards. (That Prize 
+--- 1148 Blowtorch / Blowtorch ---
+  You can use this card only if you discard a Basic {R} Energy card from your hand. |  | Discard a Pokémon Tool or Special Energy card from 1 of your opponent’s Pokémon, or discard a Stadium in play.
+--- 1149 Energy Swatter / Energy Swatter ---
+  Your opponent reveals their hand, and you choose an Energy card you find there and put it on the bottom of their deck.
+--- 1151 Antique Sail Fossil /  Protective Sail ---
+  Whenever your opponent plays a Supporter card from their hand, prevent all effects of that card done to this Pokémon.
+--- 1169 Amulet of Hope / Amulet of Hope ---
+  If the Pokémon this card is attached to is Knocked Out by damage from an attack from your opponent’s Pokémon, search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck.
+--- 1186 Eri / Eri ---
+  Your opponent reveals their hand, and you discard up to 2 Item cards you find there.
+--- 1187 Morty’s Conviction / Morty’s Conviction ---
+  You can use this card only if you discard another card from your hand. |  | Draw a card for each of your opponent’s Benched Pokémon.
+--- 1193 Hassel / Hassel ---
+  You can use this card only if any of your Pokémon were Knocked Out during your opponent’s last turn. |  | Look at the top 8 cards of your deck and put up to 3 of them into your hand. Shuffle the other
+--- 1197 Xerosic’s Machinations / Xerosic’s Machinations ---
+  Your opponent discards cards from their hand until they have 3 cards in their hand.
+--- 1199 Lacey / Lacey ---
+  Shuffle your hand into your deck. Then, draw 4 cards. If your opponent has 3 or fewer Prize cards remaining, draw 8 cards instead.
+--- 1217 Team Rocket's Archer / Team Rocket's Archer ---
+  You can use this card only if any of your Team Rocket’s Pokémon were Knocked Out during your opponent’s last turn. |  | Each player shuffles their hand into their deck. Then, you draw 5 cards, and you
+--- 1223 Harlequin / Harlequin ---
+  Each player shuffles their hand into their deck. Then, flip a coin. If heads, you draw 5 cards, and your opponent draws 3 cards. If tails, you draw 3 cards, and your opponent draws 5 cards.
+--- 1247 Neutralization Zone / Neutralization Zone ---
+  Prevent all damage done to Pokémon that don’t have a Rule Box (both yours and your opponent’s) by attacks from the opponent’s Pokémon {ex} and Pokémon {V}. (Pokémon {ex}, Pokémon {V}, etc. have Rule B

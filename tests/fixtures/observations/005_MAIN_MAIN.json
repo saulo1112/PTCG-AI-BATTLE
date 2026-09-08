@@ -1,0 +1,251 @@
+{
+ "select": {
+  "type": 0,
+  "context": 0,
+  "minCount": 1,
+  "maxCount": 1,
+  "remainDamageCounter": 0,
+  "remainEnergyCost": 0,
+  "option": [
+   {
+    "type": 8,
+    "area": 2,
+    "index": 0,
+    "inPlayArea": 4,
+    "inPlayIndex": 0
+   },
+   {
+    "type": 8,
+    "area": 2,
+    "index": 1,
+    "inPlayArea": 4,
+    "inPlayIndex": 0
+   },
+   {
+    "type": 8,
+    "area": 2,
+    "index": 2,
+    "inPlayArea": 4,
+    "inPlayIndex": 0
+   },
+   {
+    "type": 8,
+    "area": 2,
+    "index": 3,
+    "inPlayArea": 4,
+    "inPlayIndex": 0
+   },
+   {
+    "type": 8,
+    "area": 2,
+    "index": 4,
+    "inPlayArea": 4,
+    "inPlayIndex": 0
+   },
+   {
+    "type": 7,
+    "index": 5
+   },
+   {
+    "type": 7,
+    "index": 6
+   },
+   {
+    "type": 14
+   }
+  ],
+  "deck": null,
+  "contextCard": null,
+  "effect": null
+ },
+ "logs": [
+  {
+   "type": 6,
+   "playerIndex": 1,
+   "cardId": 722,
+   "serial": 69,
+   "fromArea": 2,
+   "toArea": 4
+  },
+  {
+   "type": 7,
+   "playerIndex": 1,
+   "fromArea": 1,
+   "toArea": 6
+  },
+  {
+   "type": 7,
+   "playerIndex": 1,
+   "fromArea": 1,
+   "toArea": 6
+  },
+  {
+   "type": 7,
+   "playerIndex": 1,
+   "fromArea": 1,
+   "toArea": 6
+  },
+  {
+   "type": 7,
+   "playerIndex": 1,
+   "fromArea": 1,
+   "toArea": 6
+  },
+  {
+   "type": 7,
+   "playerIndex": 1,
+   "fromArea": 1,
+   "toArea": 6
+  },
+  {
+   "type": 7,
+   "playerIndex": 1,
+   "fromArea": 1,
+   "toArea": 6
+  },
+  {
+   "type": 2,
+   "playerIndex": 0
+  },
+  {
+   "type": 5,
+   "playerIndex": 0
+  },
+  {
+   "type": 3,
+   "playerIndex": 0
+  },
+  {
+   "type": 2,
+   "playerIndex": 1
+  },
+  {
+   "type": 4,
+   "playerIndex": 1,
+   "cardId": 1235,
+   "serial": 86
+  }
+ ],
+ "current": {
+  "turn": 2,
+  "turnActionCount": 1,
+  "yourIndex": 1,
+  "firstPlayer": 0,
+  "supporterPlayed": false,
+  "stadiumPlayed": false,
+  "energyAttached": false,
+  "retreated": false,
+  "result": -1,
+  "stadium": [],
+  "looking": null,
+  "players": [
+   {
+    "active": [
+     {
+      "id": 721,
+      "serial": 4,
+      "playerIndex": 0,
+      "hp": 150,
+      "maxHp": 150,
+      "appearThisTurn": false,
+      "energies": [],
+      "energyCards": [],
+      "tools": [],
+      "preEvolution": []
+     }
+    ],
+    "bench": [],
+    "benchMax": 5,
+    "deckCount": 46,
+    "discard": [],
+    "prize": [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "handCount": 7,
+    "hand": null,
+    "poisoned": false,
+    "burned": false,
+    "asleep": false,
+    "paralyzed": false,
+    "confused": false
+   },
+   {
+    "active": [
+     {
+      "id": 722,
+      "serial": 69,
+      "playerIndex": 1,
+      "hp": 90,
+      "maxHp": 90,
+      "appearThisTurn": false,
+      "energies": [],
+      "energyCards": [],
+      "tools": [],
+      "preEvolution": []
+     }
+    ],
+    "bench": [],
+    "benchMax": 5,
+    "deckCount": 46,
+    "discard": [],
+    "prize": [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "handCount": 7,
+    "hand": [
+     {
+      "id": 3,
+      "serial": 103,
+      "playerIndex": 1
+     },
+     {
+      "id": 3,
+      "serial": 117,
+      "playerIndex": 1
+     },
+     {
+      "id": 1158,
+      "serial": 63,
+      "playerIndex": 1
+     },
+     {
+      "id": 3,
+      "serial": 101,
+      "playerIndex": 1
+     },
+     {
+      "id": 3,
+      "serial": 92,
+      "playerIndex": 1
+     },
+     {
+      "id": 1235,
+      "serial": 84,
+      "playerIndex": 1
+     },
+     {
+      "id": 1235,
+      "serial": 86,
+      "playerIndex": 1
+     }
+    ],
+    "poisoned": false,
+    "burned": false,
+    "asleep": false,
+    "paralyzed": false,
+    "confused": false
+   }
+  ]
+ },
+ "search_begin_input": "ABgAEEAPEAPEALEAbEBADBACEAEB-+CCn-lFQQANBg-ZBH-ZBC4-PJFFAOY-ZBBwADGd1P2VcVFY-MBu-fIB-VEQ-VBL-+BI-UBBCw-MFDRABgACiQ-VBEABg*LDDIYEACCa-VBQIB-hSNICACCe-VBQQC-hwNMEACCd-VBQIB-MF0wQACKY-UBBABgE-iSwADJw-UBBABgE-icwADJs-UBBABgE-MFDAElw-UBECABQ-MtMADCY-VBQIB-MjCAFgACgAEQAHgACgABBACQAHgACgABCACQAHgACgABDACQAHgACgABEACQAHcABBQAMcABBgAM4-KBQADE8AWQAI=="
+}
